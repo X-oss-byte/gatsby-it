@@ -26,4 +26,4 @@ jobs:
       run: |
         npm install
         npx webpack
-        import: import (https://www.blockchain-council.org/certifications/certified-blockchain-supply-chain-expert/allfiles)
+
